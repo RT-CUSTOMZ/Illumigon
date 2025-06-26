@@ -36,10 +36,10 @@ Die modularen smarten Leuchtpanels mit Wifi-Konnektivität, die Ihr auf der Camp
 | Keramikkondensator     | C3, C4                            | 22uF              | C_1206_3216Metric_Pad1.33x1.80mm_HandSolder                      | 2        | [C77091](https://www.lcsc.com/product-detail/C77091.html) |
 | Keramikkondensator     | C1                                | 10uF              | C_1206_3216Metric_Pad1.33x1.80mm_HandSolder                      | 1        | [C13585](https://www.lcsc.com/product-detail/C13585.html) |
 | Elektrolytkondensator  | C9                                | 470uF             | C_Elec_10x10.2                                                   | 1        | [C72519](https://www.lcsc.com/product-detail/C72519.html) |
-| Keramikkondensator     | C10                               | 1uF               | C_1206_3216Metric_Pad1.33x1.80mm_HandSolder                      | 1        | – |
+| Keramikkondensator     | C10                               | 1uF               | C_1206_3216Metric_Pad1.33x1.80mm_HandSolder                      | 1        | [C1848](https://www.lcsc.com/product-detail/C1848.html) |
 | Dickschichtwiderstand  | R3, R4, R5                        | 10kOhm            | R_1206_3216Metric_Pad1.30x1.75mm_HandSolder                      | 3        | [C17902](https://www.lcsc.com/product-detail/C17902.html) |
 | Dickschichtwiderstand  | R6, R8                            | 5,1kOhm        | R_1206_3216Metric_Pad1.30x1.75mm_HandSolder                      | 2        | [C2907509](https://www.lcsc.com/product-detail/C2907509.html) |
-| Dickschichtwiderstand  | R7                                | 30kOhm         | R_1206_3216Metric_Pad1.30x1.75mm_HandSolder                      | 1        | – |
+| Dickschichtwiderstand  | R7                                | 30Ohm         | R_1206_3216Metric_Pad1.30x1.75mm_HandSolder                      | 1        | [C25373](https://www.lcsc.com/product-detail/C25373.html) |
 | Leistungsinduktor      | L1                                | 4.7uH          | L_Chilisin_BMRB00060624                                          | 1        | [C41410634](https://www.lcsc.com/product-detail/C41410634.html) |
 | Schottky-Diode         | D2, D3                            | SS34           | D_SMA_Handsoldering                                              | 2        | [C8678](https://www.lcsc.com/product-detail/C8678.html) |
 | USB-UART Transceiver   | U1                                | CH340C         | SOIC-16_3.9x9.9mm_P1.27mm                                        | 1        | [C84681](https://www.lcsc.com/product-detail/C84681.html) |
@@ -51,7 +51,7 @@ Die modularen smarten Leuchtpanels mit Wifi-Konnektivität, die Ihr auf der Camp
 | P-Kanal Mosfet         | Q4                                | AOD403 oder 40P04 | TO-252-2 GDS                                                     | 1        | [C5224305](https://www.lcsc.com/product-detail/C5224305.html) |
 | Klinkenbuchse          | J1                                | 2,5x6,3mm      | BarrelJack_Horizontal                                            | 1        | [C720558](https://www.lcsc.com/product-detail/C720558.html) |
 | USB-C-Buchse           | J2                                | USB2.0 16P     | USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal          | 1        | [C2765186](https://www.lcsc.com/product-detail/C2765186.html) |
-| Pinheader 2x3          | J3                                | 02x03          | PinHeader_2x03_P2.54mm_Vertical                                  | 1        | – |
+| Pinheader 2x3          | J3                                | 02x03          | PinHeader_2x03_P2.54mm_Vertical                                  | 1        | [C492420](https://www.lcsc.com/product-detail/C492420.html) |
 
 
 ### 💡 Komponenten je Panel
