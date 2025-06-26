@@ -55,7 +55,8 @@ Die modularen smarten Leuchtpanels mit Wifi-Konnektivität, die Ihr auf der Camp
 | Klinkenbuchse          | J1                                | 2,5x6,3mm         | BarrelJack_Horizontal                                            | 1        | [LCSC](https://www.lcsc.com/product-detail/C720558.html) |
 | USB-C-Buchse           | J2                                | USB2.0 16P        | USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal          | 1        | [LCSC](https://www.lcsc.com/product-detail/C2765186.html) |
 | Pinheader 2x3          | J3                                | 02x03             | PinHeader_2x03_P2.54mm_Vertical                                  | 1        | [LCSC](https://www.lcsc.com/product-detail/C492420.html) |
-| Steckernetzteil        |                                   | 12V/2,5+A         |                                                                  | 1        | [LCSC](https://www.lcsc.com/product-detail/C492420.html) |
+| Steckernetzteil        |                                   | 12V/2,5+A         |                                                                  | 1        | [Reichelt](https://www.reichelt.de/de/de/shop/produkt/steckernetzteil_36_w_12_v_3_a-171106) |
+| Hohlstecker            |                                   | 2,5x5,6mm         |                                                                  | 1        | [Reichelt](https://www.reichelt.de/de/de/shop/produkt/hohlstecker_knickschutz_aussen_5_5_mm_innen_2_5_mm-8648) |
 
 ### 💡 Komponenten je Panel
 
