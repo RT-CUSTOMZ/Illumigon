@@ -62,8 +62,10 @@ Die modularen smarten Leuchtpanels mit Wifi-Konnektivität, die Ihr auf der Camp
 
 | Bauteil                | Referenz                          | Wert              | Footprint                                                        | Menge    | Link |
 |------------------------|-----------------------------------|-------------------|------------------------------------------------------------------|----------|-----------|
-| Platine                |                                   | Ecke              |                                                                  | 3        | [Github](https://github.com/RT-CUSTOMZ/Illumigon/blob/V4/Gerber/Ecke.zip) |
-| Platine                |                                   | Seite             |                                                                  | 3        | [Github](https://github.com/RT-CUSTOMZ/Illumigon/blob/V4/Gerber/Seite.zip) |
+| Platine                | Ecke                              |                   |                                                                  | 3        | [Github](https://github.com/RT-CUSTOMZ/Illumigon/blob/V4/Gerber/Ecke.zip) |
+| Platine                | Seite                             |                   |                                                                  | 3        | [Github](https://github.com/RT-CUSTOMZ/Illumigon/blob/V4/Gerber/Seite.zip) |
+| Plexiglas | Lichtleiter | 4mm | Acrylglas GS klar | 1 | [Github](https://github.com/RT-CUSTOMZ/Illumigon/blob/e6f71768b751d2ca16ff6e7ad1a84dd5374f7dc3/SVGs/Light_Guide_Panel_fein.svg) |
+| Plexiglas | Diffusor | 3mm | Acrylglas xt opal Deglas® 70105 (WN670) 78% | 1 | [Github](https://github.com/RT-CUSTOMZ/Illumigon/blob/e6f71768b751d2ca16ff6e7ad1a84dd5374f7dc3/SVGs/Diffusor.svg) |
 | Pinheader 2x3          | J1                                | 02x03             | PinHeader_2x03_P2.54mm_Vertical                                  | 3        | [LCSC](https://www.lcsc.com/product-detail/C492420.html) |
 | Pinheader 1x5          | J2, J3                            | 01x05             | PinHeader_1x05_P2.54mm_Horizontal                                | 6        | [LCSC](https://www.lcsc.com/product-detail/C492413.html) |
 | Platine                |                                   | Verbinder         |                                                                  | 1        | [Github](https://github.com/RT-CUSTOMZ/Illumigon/blob/V4/Gerber/Verbinder.zip) |
