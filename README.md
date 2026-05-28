@@ -30,33 +30,33 @@ Die modularen smarten Leuchtpanels mit Wifi-Konnektivität, die Ihr auf der Camp
 
 ### 🧠 ESP32 WLED Controller
 
-| Bauteil                | Referenz                          | Wert              | Footprint                                                        | Menge    | Link |
-|------------------------|-----------------------------------|-------------------|------------------------------------------------------------------|----------|-----------|
-| Platine                |                                   | SMD Controller    |                                                                  | 1        | [Github](https://github.com/RT-CUSTOMZ/Illumigon/blob/V4/Gerber/SMD_Controller.zip) |
-| 3D-Druck               |                                   | Controller Gehäuse Unterseite        |                                                                  | 1        | [Github](https://github.com/RT-CUSTOMZ/Illumigon/blob/V4/STLs/SMD_Controller_Geh%C3%A4use_Unterseite_v10.stl) |
-| 3D-Druck               |                                   | Controller Gehäuse Oberseite         |                                                                  | 1        | [Github](https://github.com/RT-CUSTOMZ/Illumigon/blob/V4/STLs/SMD_Controller_Geh%C3%A4use_Oberseite_v10.stl) |
-| Keramikkondensator     | C5, C6, C7, C11, C12, C13, C14    | 100nF             | SMD 1206 | 7        | [LCSC](https://www.lcsc.com/product-detail/C24497.html) |
-| Keramikkondensator     | C3, C4                            | 22uF              | SMD 1206                      | 2        | [LCSC](https://www.lcsc.com/product-detail/C77091.html) |
-| Keramikkondensator     | C1                                | 10uF              | SMD 1206                      | 1        | [LCSC](https://www.lcsc.com/product-detail/C13585.html) |
-| Elektrolytkondensator  | C9                                | 470uF             | SMD 10,2x10,2x10,5                                                   | 1        | [LCSC](https://www.lcsc.com/product-detail/C72519.html) |
-| Keramikkondensator     | C10                               | 1uF               | SMD 1206                      | 1        | [LCSC](https://www.lcsc.com/product-detail/C1848.html) |
-| Dickschichtwiderstand  | R3, R4, R5                        | 10kOhm            | SMD 1206                      | 3        | [LCSC](https://www.lcsc.com/product-detail/C17902.html) |
-| Dickschichtwiderstand  | R6, R8                            | 5,1kOhm           | SMD 1206                      | 2        | [LCSC](https://www.lcsc.com/product-detail/C2907509.html) |
-| Dickschichtwiderstand  | R7                                | 30Ohm             | SMD 1206                      | 1        | [LCSC](https://www.lcsc.com/product-detail/C25373.html) |
-| Leistungsinduktor      | L1                                | 4.7uH             | SMD 7,1 x 6,6                                          | 1        | [LCSC](https://www.lcsc.com/product-detail/C41410634.html) |
-| Schottky-Diode         | D2, D3                            | SS34              | SMD SMA                                              | 2        | [LCSC](https://www.lcsc.com/product-detail/C8678.html) |
-| USB-UART Transceiver   | U1                                | CH340C            | SOIC-16                                       | 1        | [LCSC](https://www.lcsc.com/product-detail/C84681.html) |
-| 32-bit Mikrocontroller | U2                                | ESP32-WROOM-32E   |                                                   | 1        | [LCSC](https://www.lcsc.com/product-detail/C701342.html) |
-| 5V Synchr.-Schaltregler| U3                                | AP63205WU         | TSOT-23-6                                                        | 1        | [LCSC](https://www.lcsc.com/product-detail/C2071056.html) |
-| 420Mbps Levelshifter   | U4                                | SN74LVC1T45DBV    | SOT-23-6                                           | 1        | [LCSC](https://www.lcsc.com/product-detail/C7843.html) |
-| 3.3V Spannungswandler  | U6                                | AMS1117-3.3       | SOT-223-3                                                | 1        | [LCSC](https://www.lcsc.com/product-detail/C347222.html) |
-| NPN Bipolar Transistor | Q1, Q2                            | MMBT3904          | SOT-23                                             | 2        | [LCSC](https://www.lcsc.com/product-detail/C20526.html) |
-| P-Kanal Mosfet         | Q4                                | AOD403 oder 40P04 | TO-252-2 GDS                                                     | 1        | [LCSC](https://www.lcsc.com/product-detail/C5224305.html) |
-| Klinkenbuchse          | J1                                | 2,5x6,3mm         |                                             | 1        | [LCSC](https://www.lcsc.com/product-detail/C720558.html) |
-| USB-C-Buchse           | J2                                | USB2.0 16P        | USB-C 16P         | 1        | [LCSC](https://www.lcsc.com/product-detail/C2765186.html) |
-| Pinheader 2x3          | J3                                | 02x03             | 2x03 P2.54mm                                  | 1        | [LCSC](https://www.lcsc.com/product-detail/C492420.html) |
-| Steckernetzteil        |                                   | 12V/2,5+A         |                                                                  | 1        | [Reichelt](https://www.reichelt.de/de/de/shop/produkt/steckernetzteil_36_w_12_v_3_a-171106) |
-| Hohlstecker            |                                   | 2,5x5,6mm         |                                                                  | 1        | [Reichelt](https://www.reichelt.de/de/de/shop/produkt/hohlstecker_knickschutz_aussen_5_5_mm_innen_2_5_mm-8648) |
+| Bauteil                 | Referenz                    | Wert                        | Footprint             | Menge | Link  |
+|-------------------------|-----------------------------|-----------------------------|-----------------------|-------|-------|
+| Keramikkondensator      | C3, C4, C5, C7, C8, C9, C10 | 100n                        | SMD 1206              | 7     |       |
+| Keramikkondensator      | C11, C12                    | 22u                         | SMD 1206              | 2     |       |
+| Elektrolytkondensator   | C1                          | 470u                        | C_Elec_10x10.2        | 1     |       |
+| Keramikkondensator      | C2                          | 1u0                         | SMD 1206              | 1     |       |
+| Keramikkondensator      | C6                          | 10u                         | SMD 1206              | 1     |       |
+| Dichschichtwiderstand   | R3, R6, R9                  | 100R                        | SMD 0805              | 3     |       |
+| Dichschichtwiderstand   | R8, R11, R12                | 10K                         | SMD 1206              | 3     |       |
+| Dichschichtwiderstand   | R4, R5                      | 5K1                         | SMD 1206              | 2     |       |
+| Dichschichtwiderstand   | R7, R10                     | 4K7                         | SMD 0805              | 2     |       |
+| Dichschichtwiderstand   | R1                          | 2K0                         | SMD 0805              | 1     |       |
+| Dichschichtwiderstand   | R2                          | 470R                        | SMD 0805              | 1     |       |
+| Leistungsinduktor       | L1                          | 4u7                         | 7.3x6.6mm             | 1     |       |
+| Leuchtdiode             | D1, D2, D3, D5, D6          | LED                         | SMD 0805              | 5     |       |
+| Schottky-Diode          | D4, D7                      | SS34                        | SMA                   | 2     |       |
+| 3.3V Spannungswandler   | U1                          | AMS1117-3.3                 | SOT-223-3             | 1     |       |
+| 32-bit Mikrocontroller  | U2                          | ESP32-WROOM-32E             |                       | 1     |       |
+| 5V Synchr.-Schaltregler | U3                          | AP63205WU                   | TSOT-23-6             | 1     |       |
+| 420Mbps Levelshifter    | U4                          | SN74LVC1T45DBV              | SOT-23-6              | 1     |       |
+| USB-UART Transceiver    | U5                          | CH340C                      | SOIC-16               | 1     |       |
+| Bipolartransistor       | Q2, Q3                      | BC857                       | SOT-23                | 2     |       |
+| Bipolartransistor       | Q4, Q5                      | MMBT3904                    | SOT-23                | 2     |       |
+| P-Kanal MOSFET          | Q1                          | Q_PMOS_GDS                  | TO-252-2              | 1     |       |
+| USB-C-Buchse 16-Pin     | J1                          | USB_C_Receptacle_USB2.0_16P | GCT USB4105           | 1     |       |
+| Hohlsteckerbuchse       | J2                          | Barrel_Jack_Switch          |                       | 1     |       |
+| Pinheader 2.54 2x3      | J3                          | Conn_02x03_Odd_Even         | 2x03 P2.54mm Vertical | 1     |       |
 
 ### 💡 Komponenten je Panel
 
